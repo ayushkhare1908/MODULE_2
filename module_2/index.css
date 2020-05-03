@@ -1,0 +1,30 @@
+header{
+	text-align: center;
+	font-size: 75%;
+}
+section{
+	font-size:110%;
+}
+#half{
+	border: 2px;
+	background: #808080;
+	box-sizing:border-box;
+	border-radius: 2px;
+	display:inline-block;
+}
+#full{
+	border:2px;
+	background:#808080;
+}
+#best{
+	border:2px;
+	background:#808080;
+}
+.chicken{
+	background:Pink;
+	padding:5px;
+    border:2px;
+	margin:left:10px;
+	box-sizing: border-box;
+	text-align:right;
+}
